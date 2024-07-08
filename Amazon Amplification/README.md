@@ -1,5 +1,9 @@
+[![Send-Recieve.png](https://i.postimg.cc/PfmpXsfc/Send-Recieve.png)](https://postimg.cc/kDgXsHbF)
+
 # How does it work:
 While sending a one-byte message "\x00" to any of these amazon servers they return a message "Access Denied". On the surface it's simple, however this can be an issue 
+
+[![IPLOOKUP.png](https://i.postimg.cc/J4Myt6Gh/IPLOOKUP.png)](https://postimg.cc/xqpj4PGr)
 
 # Servers Affected: ~8,700
 
