@@ -2,7 +2,7 @@
 
 In the AmazonAmplification folder it demonstrates the attackers process in finding amplification attacks as well as an example of how an attackers script would work.
 
-#What are DDoS attacks?
+# What are DDoS attacks?
 A DDoS attack is when a hacker or group of hackers launches an attack on a server that overflows it's network capacity. Since the victims' network is full of illegitimate connections, this means real connections from actual people will not be accepted. Imagine owning a restaurant, and you have a steady base of people who come in, order then leave. Your restaurant can only seat 100 people at a time. Now imagine that 5,000 people show up all at once but they don't want to eat, they just want to block the entrance and overwhelm your staff. Since your staff is overwhelmed, they can't take any orders from the real customers, otherwise denying them service. Although there are a few more moving parts, this is almost exactly what happens to servers when they undergo one of these attacks. There are 3 main methods of launching these attacks. These methods are using a Botnet(a network of infected devices), servers, or amplification attacks. The difference between those 3 are what it takes to create them, and the amount of traffic they are able to push. 
 
 #Botnets - 
